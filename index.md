@@ -98,7 +98,7 @@ the pitch.
 {% endcomment %}
 
 <p>
-<strong><a href="https://cobaltlearningjourney.com/">COBALT</strong>, the Collaborative for Bioregional Action Learning & Transformation</a>,  is a global group focused on developing pathways for a more just, equitable and regenerative future on our planet in the face of massive social and ecological change. We are closely aligned and separate from SustainaMetrix team that has been conducting collaborative work in coastal communities across the globe for over 20 years including in the Arctic, Europe, Africa, Pacific Island, Caribbean, Latin America and North America.</p>
+<strong><a href="https://cobaltlearningjourney.com/">COBALT, the Collaborative for Bioregional Action Learning & Transformation</a></strong>,  is a global group focused on developing pathways for a more just, equitable and regenerative future on our planet in the face of massive social and ecological change. We are closely aligned and separate from SustainaMetrix team that has been conducting collaborative work in coastal communities across the globe for over 20 years including in the Arctic, Europe, Africa, Pacific Island, Caribbean, Latin America and North America.</p>
 
 <p>
 This purpose of this workshop is to use tools and curriculum from The Carpentries 
