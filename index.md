@@ -129,15 +129,18 @@ Sign up to receive future editions and read our full archive: <a href="https://c
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
+<hr>
+
 {% comment %}
 AUDIENCE
 
 This is a workshop for people who are interested and curious in creating 
 dynamic and useful displays of spatial data for broad audiences as relates to
 the goals of COBALT. No prior experience with R or GIS is necessary, although
-some comforot with computers and all of the problems they throw our way will
+some comfort with computers and all of the problems they throw our way will
 be necessary.
 {% endcomment %}
+
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
 {% elsif site.carpentry == "dc" %}
@@ -145,6 +148,7 @@ be necessary.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
+
 
 {% comment %}
 LOCATION
