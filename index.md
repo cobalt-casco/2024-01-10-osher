@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Osher Map Library at the University of Southern Name"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Osher Map Library at the University of Southern Maine"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "314 Forest Ave, Portland, ME 04101"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
@@ -101,7 +101,7 @@ the pitch.
 <strong><a href="https://cobaltlearningjourney.com/">COBALT, the Collaborative for Bioregional Action Learning & Transformation</a></strong>,  is a global group focused on developing pathways for a more just, equitable and regenerative future on our planet in the face of massive social and ecological change. We are closely aligned and separate from SustainaMetrix team that has been conducting collaborative work in coastal communities across the globe for over 20 years including in the Arctic, Europe, Africa, Pacific Island, Caribbean, Latin America and North America.</p>
 
 <p>
-This purpose of this workshop is to use tools and curriculum from The Carpentries 
+This purpose of this workshop is to use tools and curriculum from The Carpentries
 to begin to launch a Bioregional Data Lab for the Casco Bay Bioregion.
 </p>
 
@@ -134,7 +134,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 {% comment %}
 AUDIENCE
 
-This is a workshop for people who are interested and curious in creating 
+This is a workshop for people who are interested and curious in creating
 dynamic and useful displays of spatial data for broad audiences as relates to
 the goals of COBALT. No prior experience with R or GIS is necessary, although
 some comfort with computers and all of the problems they throw our way will
@@ -244,11 +244,11 @@ special instructions.
   attempt to provide them.
 </p>
 {% else %}
-  We are dedicated to providing a positive and accessible learning environment for all. 
-  We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
-  However, we do want to help create an inclusive, accessible experience for all participants. 
+  We are dedicated to providing a positive and accessible learning environment for all.
+  We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information.
+  However, we do want to help create an inclusive, accessible experience for all participants.
   We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
-  To request an accommodation for this workshop, please 
+  To request an accommodation for this workshop, please
   <a href="mailto:jarrett.byrnes@umb.edu">email the organizers</a>.
 </p>
 {% endif %}
@@ -416,7 +416,7 @@ See the contents of the _includes/custom-schedule.html file for an example of
 how one of these schedule tables is constructed.
 {% endcomment %}
 
-There will be regular breaks between lessons to give you time to absorb the 
+There will be regular breaks between lessons to give you time to absorb the
 information and let your brains re-align.
 
 <hr/>
@@ -446,7 +446,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software and data that are listed 
+  you will need access to software and data that are listed
   <a href="https://cobalt-casco.github.io/geospatial-workshop/index.html#setup">
   here</a>.
   In addition, you will need an up-to-date web browser.
