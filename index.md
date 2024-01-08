@@ -179,7 +179,7 @@ address.
 <p id="where">
   <strong>Where:</strong>
   online at <a href="{{page.address}}">{{page.address}}</a>.
-  The Osher Map Library and Smith Center for Cartographic Education (OML) is located on the Portland campus of the University of Southern Maine. It occupies the three-story building at the corner of Forest Avenue and Bedford Street (314 Forest Avenue; Portland, ME 04101); it is attached, on the first floor, to the seven-story Albert Brenner Glickman Family Library. The public entrances — to the reading room, the gallery, and the Cohen Education Center — are all off the arcade that runs across the front of both library buildings.For those driving here are the [directions including guidance on visitor parking](https://oshermaps.org/about/directions).
+  The Osher Map Library and Smith Center for Cartographic Education (OML) is located on the Portland campus of the University of Southern Maine. It occupies the three-story building at the corner of Forest Avenue and Bedford Street (314 Forest Avenue; Portland, ME 04101); it is attached, on the first floor, to the seven-story Albert Brenner Glickman Family Library. The public entrances — to the reading room, the gallery, and the Cohen Education Center — are all off the arcade that runs across the front of both library buildings.For those driving here are the <a href="https://oshermaps.org/about/directions">directions including guidance on visitor parking</a>.
 </p>
 
 {% elsif online == "true_public" %}
